@@ -51,9 +51,9 @@ Create a new admin user or modify the existing admin user to secure your applica
 You can further customize SandoCA to suit your specific needs. You can modify the application's appearance, add new features, or extend its functionality as necessary.
 
 ## Features
-User Roles: The application has user roles, including admin and normal users.
-Admin Panel: Admins have access to the admin panel, where they can manage brands, categories, and users.
-Advanced Search: Users can search for products based on popularity, lowest price, and price range.
+- User Roles: The application has user roles, including admin and normal users.
+- Admin Panel: Admins have access to the admin panel, where they can manage brands, categories, and users.
+- Advanced Search: Users can search for products based on popularity, lowest price, and price range.
 
 ## Credits
 This project is based on the work of user @ArkaBando. Thank you for your contribution to the open-source community.
