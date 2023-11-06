@@ -36,12 +36,6 @@ The application uses MySQL as its database. You can find the initial database st
 
 ```sql
 mysql -u your_username -p your_database_name < db.sql
-
-
-
-==========  ==========  ==========  ==========
-
-
 Make sure to replace your_username with your MySQL username and your_database_name with the name of your database.
 
 Admin User Setup
@@ -65,9 +59,9 @@ Advanced Search: Users can search for products based on popularity, lowest price
 Credits
 This project is based on the work of user @ArkaBando. Thank you for your contribution to the open-source community.
 
-
-
 Thank you for choosing SandoCA as your Amazon Web Clone. We hope you find this application helpful and are excited to see what you can build with it.
-You can copy and paste this content into your GitHub README.md file, and it should provide a clear and organized introduction to your project.
 
 
+
+
+You can copy and paste this content into your GitHub README.md file, and it sho
