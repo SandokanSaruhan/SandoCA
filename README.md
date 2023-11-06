@@ -2,6 +2,8 @@
 
 Welcome to **SandoCA**, an Amazon Web Clone application written in pure PHP and JavaScript. This application allows you to create an e-commerce platform similar to Amazon, with a focus on providing a user-friendly shopping experience. Before getting started, please take a moment to review the following instructions.
 
+![hippo](https://github.com/SandokanSaruhan/SandoCA/blob/main/SandoCA.gif)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Installation](#installation)
