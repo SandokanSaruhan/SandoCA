@@ -1,0 +1,2 @@
+# SandoCA
+Amazon Clone
