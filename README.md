@@ -33,13 +33,10 @@ To get started, follow these steps:
 
 The application uses MySQL as its database. You can find the initial database structure in the `db.sql` file. To import it, use the following command:
 
-```sql
+sql
 mysql -u your_username -p your_database_name < db.sql
 
-
-
-
-Admin User Setup
+## Admin User Setup
 To set up an admin user, follow these steps:
 
 Log in to the application using the default admin credentials (if not already changed by the previous developer):
@@ -50,14 +47,15 @@ After logging in, you can navigate to the admin panel.
 
 Create a new admin user or modify the existing admin user to secure your application.
 
-Customization
+## Customization
 You can further customize SandoCA to suit your specific needs. You can modify the application's appearance, add new features, or extend its functionality as necessary.
 
-Features
+## Features
 User Roles: The application has user roles, including admin and normal users.
 Admin Panel: Admins have access to the admin panel, where they can manage brands, categories, and users.
 Advanced Search: Users can search for products based on popularity, lowest price, and price range.
-Credits
+
+## Credits
 This project is based on the work of user @ArkaBando. Thank you for your contribution to the open-source community.
 
 Thank you for choosing SandoCA as your Amazon Web Clone. We hope you find this application helpful and are excited to see what you can build with it.
