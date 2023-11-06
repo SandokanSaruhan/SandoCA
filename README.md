@@ -33,8 +33,10 @@ To get started, follow these steps:
 
 The application uses MySQL as its database. You can find the initial database structure in the `db.sql` file. To import it, use the following command:
 
-sql
+```sql
 mysql -u your_username -p your_database_name < db.sql
+
+```
 
 ## Admin User Setup
 To set up an admin user, follow these steps:
